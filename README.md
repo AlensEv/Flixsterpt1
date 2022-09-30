@@ -12,7 +12,7 @@ Various App Assignments from Codepath
 
 ### App Walkthrough GIF
 
-<img src="https://recordit.co/2nlCR8BwEF" width=250><br>
+<img src="[https://recordit.co/2nlCR8BwEF](http://g.recordit.co/2nlCR8BwEF.gif)" width=250><br>
 
 
 
